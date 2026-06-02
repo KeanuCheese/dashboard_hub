@@ -1,1 +1,62 @@
-Commit → main branch
+{
+  "version": "ekosistema-mvp",
+  "schemaVersion": 1,
+  "exportedAt": "2025-06-02T12:00:00.000Z",
+  "source": "initial-setup",
+  "activeWeekId": "seed-001",
+  "weeklyLogs": [
+    {
+      "id": "seed-001",
+      "weekNumber": 1,
+      "dateRange": "Junio 2025",
+      "title": "EkoSistema Villarrica — En línea",
+      "subtitle": "Red regenerativa del lago 🌿",
+      "status": "activa",
+      "published": true,
+      "captainName": "Capitán Compost",
+      "captainMessage": "¡El EkoSistema está en línea! Edita el contenido desde el AdminPanel y publica el parche para que todos lo vean.",
+      "coverImage": "",
+      "posterA4": "",
+      "metrics": [
+        {
+          "id": "m1",
+          "icon": "🌿",
+          "label": "Kilos revalorizados",
+          "value": "—"
+        },
+        {
+          "id": "m2",
+          "icon": "♻",
+          "label": "Compost (kg)",
+          "value": "—"
+        },
+        {
+          "id": "m3",
+          "icon": "🌳",
+          "label": "Árboles plantados",
+          "value": "—"
+        },
+        {
+          "id": "m4",
+          "icon": "👥",
+          "label": "Personas activas",
+          "value": "—"
+        }
+      ],
+      "newEkos": [],
+      "projects": [],
+      "events": [],
+      "recognitions": [],
+      "suggestions": [],
+      "resources": [],
+      "socialLinks": [],
+      "gallery": [],
+      "ekoOfWeek": null,
+      "createdAt": "2025-06-02T12:00:00.000Z",
+      "updatedAt": "2025-06-02T12:00:00.000Z",
+      "settings": {
+        "appearance": {}
+      }
+    }
+  ]
+}
